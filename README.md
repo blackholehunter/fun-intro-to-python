@@ -8,3 +8,5 @@ First install all the required Python libraries by running pip install -r requir
 In the Data folder you will find an HTML file with my YouTube watch history. Note I didn't bother including the images with this HTML file so expect the HTML file to look ugly. However, it contains all the info we need for processing.
 
 When you run the soupYouTube.py you might get errors from the Natural Language Toolkit if you have some missing additional resources. Depending on your Python setup on your laptop, following the error message instructions might or might not work. If it doesn't, run the nltkDownload.py to get yourself the resources required for this exercise.
+
+There is an accompanying video for this code here: https://youtu.be/H-iomo3pDbc.
